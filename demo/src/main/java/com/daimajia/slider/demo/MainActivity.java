@@ -26,6 +26,7 @@ import java.util.HashMap;
 
 public class MainActivity extends ActionBarActivity implements BaseSliderView.OnSliderClickListener, ViewPagerEx.OnPageChangeListener{
 
+
     private SliderLayout mDemoSlider;
 
     @Override
